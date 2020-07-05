@@ -11,4 +11,4 @@
 vpkg_require fenics
 
 
-Sexec python3 Main.py
+Sexec python3 Main_script.py
